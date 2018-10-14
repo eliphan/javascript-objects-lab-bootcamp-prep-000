@@ -1,3 +1,3 @@
 var recipes = {
-  key:
+  key: value
 }
