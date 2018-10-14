@@ -1,6 +1,3 @@
-function (object) {
-  var object = {
-     key: 'value'
-     return object
+var objects = {
+  key:'value'
 }
-
