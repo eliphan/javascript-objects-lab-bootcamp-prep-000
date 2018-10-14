@@ -3,5 +3,5 @@ var recipes = {
 }
 
 function updateObjectWithKeyAndValue (object, key, value) {
-  object[key] = 'prop2'
+  object.assign
 }
