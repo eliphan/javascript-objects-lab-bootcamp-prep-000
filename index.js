@@ -1,4 +1,4 @@
-var recipes = {
+var object = {
   key: value
 }
 
