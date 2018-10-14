@@ -1,4 +1,4 @@
 var object = {
-  key: value
+  key: 'value',
 }
 
